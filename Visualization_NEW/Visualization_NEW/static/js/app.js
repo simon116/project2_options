@@ -227,3 +227,5 @@ function buildSinglePutPlot(newticker) {
 init();
 buildAllCallPlot();
 buildAllPutPlot();
+buildSingleCallPlot();
+buildSinglePutPlot();
