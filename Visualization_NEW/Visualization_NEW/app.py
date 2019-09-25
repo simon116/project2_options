@@ -92,13 +92,6 @@ def puts_data_by_ticker(ticker):
 
     return jsonify(puts_df.to_dict(orient="records"))
 
-# @app.route("/pricehistory")
-# def historydata():
-#     sel = [
-#     # To put more
-
-#     ]
-
     # return
 
 ################################################
